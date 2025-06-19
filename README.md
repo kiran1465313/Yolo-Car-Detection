@@ -5,11 +5,7 @@ A real-time vehicle counting system built using the YOLO object detection model 
 
 ---
 
-## 📸 Demo
 
-<img src="https://user-images.githubusercontent.com/demo-car-counter.gif" width="600"/>
-
-> *(Insert a GIF or link to a demo video here)*
 
 ---
 
